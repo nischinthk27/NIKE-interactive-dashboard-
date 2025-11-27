@@ -48,4 +48,13 @@ To interact with the full report, you will need **Microsoft Power BI Desktop** (
 2.  **Open**: Double-click the file **`Nike.pbix`**.
 3.  **Explore**: The report will load, allowing you to interact with all the charts, tables, and slicers.
 
-## Project Structure
+## Future Enhancements
+
+Potential future improvements for this project include:
+
+* **Time Series Analysis**: Integrate multiple CSV files (snapshots from different dates) to track pricing and discount changes over time.
+* **Text Analysis**: Perform natural language processing (NLP) on the `Description` field to extract key product features or materials.
+* **External Data Integration**: Combine this product data with external datasets, such as sales figures (if available) or market trends, to enrich the analysis.
+
+---
+*Created by [Nischinth K/nischinthk27] | [www.linkedin.com/in/nischinth-k-510918263]*
